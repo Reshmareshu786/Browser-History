@@ -1,6 +1,4 @@
-In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
-
-### Refer to the image below:
+In this project, let's build a **Browser History** 
 
 <br/>
 <div style="text-align: center;">
@@ -10,8 +8,7 @@ In this project, let's build a **Browser History** app by applying the concepts 
 
 ### Design Files
 
-<details>
-<summary>Click to view</summary>
+
 
 - [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/browser-history-sm-outputs.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Browser History](https://assets.ccbp.in/frontend/content/react-js/browser-history-lg-output.png)
@@ -19,20 +16,12 @@ In this project, let's build a **Browser History** app by applying the concepts 
 
 </details>
 
-### Set Up Instructions
 
-<details>
-<summary>Click to view</summary>
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
 
 The app must have the following functionalities
 
@@ -56,17 +45,6 @@ The app must have the following functionalities
 
 ### Important Note
 
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The `logoUrl` in the each history item have alt as **domain logo**
-- The delete button in the history item should have the `data-testid` as **delete**
-
-</details>
 
 ### Resources
 
@@ -94,18 +72,4 @@ The app must have the following functionalities
 <div style="background-color: #475569; width: 150px; padding: 10px; color: white">Hex: #475569</div>
 <br/>
 
-</details>
 
-<details>
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
